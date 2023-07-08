@@ -1,0 +1,204 @@
+BIO-FILM ID,ANTI-BIO-FILM AGENT,MOLECULAR FORMULA,AGENT TYPE,TARGET ORGANISM,STRAIN,INHIBITION,STAGE QUENCHED,GROWTH MEDIA,REFERENCE ID
+Anti-Biofilm_0360,Phenanthrene,C14H10,Phytochemical,Escherichia coli,ATCC 10536,75 %,Formation,Luria-Bertani (LB) Broth,25656290
+Anti-Biofilm_0365,Undecanoic acid,C11H22O2,Phytochemical,Escherichia coli,ATCC 10536,0 %,Formation,Luria-Bertani (LB) Broth,25656290
+Anti-Biofilm_0370,Myristic acid,C14H28O2,Chemical,Escherichia coli,ATCC 10536,0 %,Formation,Luria-Bertani (LB) Broth,25656290
+Anti-Biofilm_0408,Curcumin,C21H20O6,Phytochemical,Escherichia coli,ATCC 10536,52 %,Formation,Luria-Bertani (LB) media,24262582
+Anti-Biofilm_1085,Subtilosin,C152H226N38O45S3,Peptide,Escherichia coli,O157:H7,65 %,Integrity,Luria-Bertani (LB) Broth,27914001
+Anti-Biofilm_1088,(5Z)-4-Bromo-5-(bromomethylene)-3-butyl-2(5H)-furanone,C9H10Br2O2,Algal extract,Escherichia coli,K12,50.7 %,Formation,Luria-Bertani (LB) media + 0.2% glucose,15470704
+Anti-Biofilm_1089,(5Z)-4-Bromo-5-(bromomethylene)-3-butyl-2(5H)-furanone,C9H10Br2O2,Algal extract,Escherichia coli,K12,50 %,Formation,Luria-Bertani (LB) media,15470704
+Anti-Biofilm_1112,Indole,C8H7N,Chemical,Escherichia coli,BW25113,91.67 %,Formation,Luria-Bertani (LB) media,18528414
+Anti-Biofilm_1113,Indole,C8H7N,Chemical,Escherichia coli,BW25113 tnaA,86.67 %,Formation,Luria-Bertani (LB) media,18528414
+Anti-Biofilm_1114,Indole,C8H7N,Chemical,Escherichia coli,BW25113 sdiA,61.22 %,Formation,Luria-Bertani (LB) media,18528414
+Anti-Biofilm_1135,(5Z)-4-Bromo-5-(bromomethylene)-3-butyl-2(5H)-furanone,C9H10Br2O2,Algal extract,Escherichia coli,K12,50.7 %,Formation,Luria-Bertani (LB) media + 0.2% glucose,15470704
+Anti-Biofilm_1136,(5Z)-4-Bromo-5-(bromomethylene)-3-butyl-2(5H)-furanone,C9H10Br2O2,Algal extract,Escherichia coli,K12,50 %,Formation,Luria-Bertani (LB) media,15470704
+Anti-Biofilm_1153,Indole,C8H7N,Chemical,Escherichia coli,BW25113,91.67 %,Formation,Luria-Bertani (LB) media,18528414
+Anti-Biofilm_1154,Indole,C8H7N,Chemical,Escherichia coli,BW25113 tnaA,86.67 %,Formation,Luria-Bertani (LB) media,18528414
+Anti-Biofilm_1155,Indole,C8H7N,Chemical,Escherichia coli,BW25113 sdiA,61.22 %,Formation,Luria-Bertani (LB) media,18528414
+Anti-Biofilm_1290,Naringenin,C15H12O5,Phytochemical,Escherichia coli,O157:H7,97 %,Formation,Colony-Forming Antigen (CFA) media or Luria Marine (LM) media,20163489
+Anti-Biofilm_1292,Naringin,C27H32O14,Phytochemical,Escherichia coli,O157:H7,50 %,Formation,Colony-Forming Antigen (CFA) media or Luria Marine (LM) media,20163489
+Anti-Biofilm_1294,Neoeriocitrin,C27H32O15,Phytochemical,Escherichia coli,O157:H7,40 %,Formation,Colony-Forming Antigen (CFA) media or Luria Marine (LM) media,20163489
+Anti-Biofilm_1296,Neohesperidin,C28H34O15,Phytochemical,Escherichia coli,O157:H7,40 %,Formation,Colony-Forming Antigen (CFA) media or Luria Marine (LM) media,20163489
+Anti-Biofilm_1298,Hesperidin,C28H34O15,Phytochemical,Escherichia coli,O157:H7,2 %,Formation,Colony-Forming Antigen (CFA) media or Luria Marine (LM) media,20163489
+Anti-Biofilm_1300,Quercetin,C15H10O7,Phytochemical,Escherichia coli,O157:H7,72 %,Formation,Colony-Forming Antigen (CFA) media or Luria Marine (LM) media,20163489
+Anti-Biofilm_1302,Rutin,C27H30O16,Phytochemical,Escherichia coli,O157:H7,38 %,Formation,Colony-Forming Antigen (CFA) media or Luria Marine (LM) media,20163489
+Anti-Biofilm_1304,Kaempferol,C15H10O6,Phytochemical,Escherichia coli,O157:H7,52 %,Formation,Colony-Forming Antigen (CFA) media or Luria Marine (LM) media,20163489
+Anti-Biofilm_1306,Apigenin,C15H10O5,Phytochemical,Escherichia coli,O157:H7,38 %,Formation,Colony-Forming Antigen (CFA) media or Luria Marine (LM) media,20163489
+Anti-Biofilm_1308,Sinensetin,C20H20O7,Phytochemical,Escherichia coli,O157:H7,67 %,Formation,Colony-Forming Antigen (CFA) media or Luria Marine (LM) media,20163489
+Anti-Biofilm_1425,Subtilosin,C152H226N38O45S3,Peptide,Escherichia coli,O157:H7,65 %,Integrity,Not Specified,27914001
+Anti-Biofilm_1492,Norspermidine,C6H17N3,Chemical,Escherichia coli,ATCC PTA 1798,75 %,Formation,Luria-Bertani (LB) Broth,26350146
+Anti-Biofilm_1644,Resveratrol,C14H12O3,Phytochemical,Escherichia coli,O157:H7 (ATCC 43895),94 %,Formation,Luria-Bertani (LB) Broth,24067082
+Anti-Biofilm_1645,Tannic acid,C76H52O46,Phytochemical,Escherichia coli,O157:H7 (ATCC 43895),92 %,Formation,Luria-Bertani (LB) Broth,24067082
+Anti-Biofilm_1646,4-Hydroxy benzoate,C7H5O3,Phytochemical,Escherichia coli,O157:H7 (ATCC 43895),31 %,Formation,Luria-Bertani (LB) Broth,24067082
+Anti-Biofilm_1647,Betulinic acid,C30H48O3,Phytochemical,Escherichia coli,O157:H7 (ATCC 43895),10 %,Formation,Luria-Bertani (LB) Broth,24067082
+Anti-Biofilm_1648,Caffeic Acid,C9H8O4,Phytochemical,Escherichia coli,O157:H7 (ATCC 43895),3.44 %,Formation,Luria-Bertani (LB) Broth,24067082
+Anti-Biofilm_1649,p-Coumaric acid,C9H8O3,Phytochemical,Escherichia coli,O157:H7 (ATCC 43895),26 %,Formation,Luria-Bertani (LB) Broth,24067082
+Anti-Biofilm_1650,Ferulic Acid,C10H10O4,Phytochemical,Escherichia coli,O157:H7 (ATCC 43895),19 %,Formation,Luria-Bertani (LB) Broth,24067082
+Anti-Biofilm_1651,Sinapic acid,C11H12O5,Phytochemical,Escherichia coli,O157:H7 (ATCC 43895),11 %,Formation,Luria-Bertani (LB) Broth,24067082
+Anti-Biofilm_1652,Stilbene,C14H12,Phytochemical,Escherichia coli,O157:H7 (ATCC 43895),10 %,Formation,Luria-Bertani (LB) Broth,24067082
+Anti-Biofilm_1653,Syringic acid,C9H10O5,Phytochemical,Escherichia coli,O157:H7 (ATCC 43895),3.44 %,Formation,Luria-Bertani (LB) Broth,24067082
+Anti-Biofilm_1654,Vanillic acid,C8H8O4,Phytochemical,Escherichia coli,O157:H7 (ATCC 43895),3.44 %,Formation,Luria-Bertani (LB) Broth,24067082
+Anti-Biofilm_1655,Gallium Nitrate,GaN3O9,Chemical,Escherichia coli,Not Specified,90 %,Formation,Nutrient Broth,26369125
+Anti-Biofilm_1758,Phosphate,O4P,Chemical,Escherichia coli,MC4100,40 %,Formation,MT + P media,23226268
+Anti-Biofilm_1759,Phosphate,O4P,Chemical,Escherichia coli,BW25113,40 %,Formation,MT + P media,23226268
+Anti-Biofilm_1760,Phosphate,O4P,Chemical,Escherichia coli,MG1655,20 %,Formation,MT + P media,23226268
+Anti-Biofilm_1803,Zinc,Zn,Chemical,Escherichia coli,042 (EAEC),26.66 %,Formation,Luria-Bertani (LB) media,23958904
+Anti-Biofilm_1827,Bergamottin,C21H22O4,Phytochemical,Escherichia coli,O157:H7 (ATCC 43895),64 %,Formation,Luria-Bertani (LB) media,23891936
+Anti-Biofilm_1828,beta-sitosterol glucoside,C35H60O6,Phytochemical,Escherichia coli,O157:H7 (ATCC 43895),50 %,Formation,Luria-Bertani (LB) media,23891936
+Anti-Biofilm_1829,Nobiletin,C21H22O8,Phytochemical,Escherichia coli,O157:H7 (ATCC 43895),90 %,Formation,Luria-Bertani (LB) media,23891936
+Anti-Biofilm_1830,Sinensetin,C20H20O7,Phytochemical,Escherichia coli,O157:H7 (ATCC 43895),76 %,Formation,Luria-Bertani (LB) media,23891936
+Anti-Biofilm_1831,Heptamethoxyflavone,C22H24O9,Phytochemical,Escherichia coli,O157:H7 (ATCC 43895),50 %,Formation,Luria-Bertani (LB) media,23891936
+Anti-Biofilm_1832,Imperatorin,C16H14O4,Phytochemical,Escherichia coli,O157:H7 (ATCC 43895),43 %,Formation,Luria-Bertani (LB) media,23891936
+Anti-Biofilm_1833,Bergamottin,C21H22O4,Phytochemical,Escherichia coli,O157:H7 (ATCC 43895),80 %,Formation,Minimal (M63) media,23891936
+Anti-Biofilm_1834,beta-sitosterol glucoside,C35H60O6,Phytochemical,Escherichia coli,O157:H7 (ATCC 43895),50 %,Formation,Minimal (M63) media,23891936
+Anti-Biofilm_1835,Nobiletin,C21H22O8,Phytochemical,Escherichia coli,O157:H7 (ATCC 43895),80 %,Formation,Minimal (M63) media,23891936
+Anti-Biofilm_1836,Sinensetin,C20H20O7,Phytochemical,Escherichia coli,O157:H7 (ATCC 43895),48 %,Formation,Minimal (M63) media,23891936
+Anti-Biofilm_1837,Heptamethoxyflavone,C22H24O9,Phytochemical,Escherichia coli,O157:H7 (ATCC 43895),50 %,Formation,Minimal (M63) media,23891936
+Anti-Biofilm_1838,Imperatorin,C16H14O4,Phytochemical,Escherichia coli,O157:H7 (ATCC 43895),50 %,Formation,Minimal (M63) media,23891936
+Anti-Biofilm_1848,Ciprofloxacin lactate,C20H24FN3O6,Chemical,Escherichia coli,8,75 %,Formation,Mueller-Hinton (MH) Broth,24159313
+Anti-Biofilm_1849,Ciprofloxacin lactate,C20H24FN3O6,Chemical,Escherichia coli,9,75 %,Formation,Mueller-Hinton (MH) Broth,24159313
+Anti-Biofilm_1850,Ciprofloxacin lactate,C20H24FN3O6,Chemical,Escherichia coli,10,75 %,Formation,Mueller-Hinton (MH) Broth,24159313
+Anti-Biofilm_1851,Ciprofloxacin lactate,C20H24FN3O6,Chemical,Escherichia coli,31,75 %,Formation,Mueller-Hinton (MH) Broth,24159313
+Anti-Biofilm_1852,Ciprofloxacin lactate,C20H24FN3O6,Chemical,Escherichia coli,1583,75 %,Formation,Mueller-Hinton (MH) Broth,24159313
+Anti-Biofilm_1853,Amikacin disulfate salt,C22H47N5O21S2,Chemical,Escherichia coli,8,25 %,Formation,Mueller-Hinton (MH) Broth,24159313
+Anti-Biofilm_1854,Amikacin disulfate salt,C22H47N5O21S2,Chemical,Escherichia coli,9,25 %,Formation,Mueller-Hinton (MH) Broth,24159313
+Anti-Biofilm_1855,Amikacin disulfate salt,C22H47N5O21S2,Chemical,Escherichia coli,10,25 %,Formation,Mueller-Hinton (MH) Broth,24159313
+Anti-Biofilm_1856,Amikacin disulfate salt,C22H47N5O21S2,Chemical,Escherichia coli,31,25 %,Formation,Mueller-Hinton (MH) Broth,24159313
+Anti-Biofilm_1857,Amikacin disulfate salt,C22H47N5O21S2,Chemical,Escherichia coli,1583,25 %,Formation,Mueller-Hinton (MH) Broth,24159313
+Anti-Biofilm_1858,Colistin sodium methanesulfonate,C53H101N16NaO16S,Chemical,Escherichia coli,8,73 %,Formation,Mueller-Hinton (MH) Broth,24159313
+Anti-Biofilm_1859,Colistin sodium methanesulfonate,C53H101N16NaO16S,Chemical,Escherichia coli,9,73 %,Formation,Mueller-Hinton (MH) Broth,24159313
+Anti-Biofilm_1860,Colistin sodium methanesulfonate,C53H101N16NaO16S,Chemical,Escherichia coli,10,73 %,Formation,Mueller-Hinton (MH) Broth,24159313
+Anti-Biofilm_1861,Colistin sodium methanesulfonate,C53H101N16NaO16S,Chemical,Escherichia coli,31,73 %,Formation,Mueller-Hinton (MH) Broth,24159313
+Anti-Biofilm_1862,Colistin sodium methanesulfonate,C53H101N16NaO16S,Chemical,Escherichia coli,1583,73 %,Formation,Mueller-Hinton (MH) Broth,24159313
+Anti-Biofilm_1866,Carbonyl cyanide m-chlorophenylhydrazone,C9H5ClN4,Chemical,Escherichia coli,MG1655,87 %,Formation,Luria-Bertani (LB) media,24176982
+Anti-Biofilm_1867,Phenyl-arginine-b-naphthylamide,C25H30N6O2,Chemical,Escherichia coli,MG1655,80 %,Formation,Luria-Bertani (LB) media,24176982
+Anti-Biofilm_1868,Chlorpromazine,C17H19ClN2S,Chemical,Escherichia coli,MG1655,77 %,Formation,Luria-Bertani (LB) media,24176982
+Anti-Biofilm_1982,Ursolic acid,C30H48O3,Phytochemical,Escherichia coli,ATCC 25404,80 %,Formation,Luria-Bertani (LB) media,16000817
+Anti-Biofilm_1983,Ursolic acid,C30H48O3,Phytochemical,Escherichia coli,JM109,71 %,Formation,Luria-Bertani (LB) media,16000817
+Anti-Biofilm_2071,kappa-Pyrosulfite,K2S2O5,Chemical,Escherichia coli,K-12 MG 1655,Decrease,Formation,Tryptic Soy Broth (TSB),20089325
+Anti-Biofilm_2072,Na-Pyrosulfite,Na2S2O5,Chemical,Escherichia coli,K-12 MG 1655,Decrease,Formation,Tryptic Soy Broth (TSB),20089325
+Anti-Biofilm_2075,epsilon-Polylysine,C6H12N2O,Chemical,Escherichia coli,K-12 MG 1655,Decrease,Formation,Tryptic Soy Broth (TSB),20089325
+Anti-Biofilm_2077,Chitosan,C56H103N9O39,Chemical,Escherichia coli,K-12 MG 1655,Decrease,Formation,Tryptic Soy Broth (TSB),20089325
+Anti-Biofilm_2199,Thiophenone TF101,C5H3BrOS,Chemical,Escherichia coli,O103:H2 (1153),68 %,Adhesion and Formation,Luria-Bertani (LB) Broth,24391047
+Anti-Biofilm_2200,Furanone F202,C5H3BrO2,Chemical,Escherichia coli,O103:H2 (1153),39 %,Adhesion and Formation,Luria-Bertani (LB) Broth,24391047
+Anti-Biofilm_2201,Thiophenone TF101,C5H3BrOS,Chemical,Escherichia coli,O103:H2 (1242),91 %,Adhesion and Formation,Luria-Bertani (LB) Broth,24391047
+Anti-Biofilm_2202,Furanone F202,C5H3BrO2,Chemical,Escherichia coli,O103:H2 (1242),32 %,Adhesion and Formation,Luria-Bertani (LB) Broth,24391047
+Anti-Biofilm_2203,Thiophenone TF101,C5H3BrOS,Chemical,Escherichia coli,O103:H2 (10705),92 %,Adhesion and Formation,Luria-Bertani (LB) Broth,24391047
+Anti-Biofilm_2204,Furanone F202,C5H3BrO2,Chemical,Escherichia coli,O103:H2 (10705),22 %,Adhesion and Formation,Luria-Bertani (LB) Broth,24391047
+Anti-Biofilm_2519,Gallic Acid,C7H6O5,Chemical,Escherichia coli,Not Specified,19 %,Formation,Luria-Bertani (LB) media,25974286
+Anti-Biofilm_2520,Gallic Acid,C7H6O5,Chemical,Escherichia coli,Not Specified,22.45 %,Formation,1/8 Luria-Bertani (LB) media,25974286
+Anti-Biofilm_2521,Gallic Acid,C7H6O5,Chemical,Escherichia coli,Not Specified,20 %,Formation,1/20 Luria-Bertani (LB) media,25974286
+Anti-Biofilm_2522,Gallic Acid,C7H6O5,Chemical,Escherichia coli,Not Specified,33 %,Formation,Cabbage wash water,25974286
+Anti-Biofilm_2523,Gallic Acid,C7H6O5,Chemical,Escherichia coli,Not Specified,28.5 %,Formation,Spinach wash water,25974286
+Anti-Biofilm_2632,Luteolin,C15H10O6,Phytochemical,Escherichia coli,J96 (UPEC),36.2 %,Adhesion,Luria-Bertani (LB) Broth,25051393
+Anti-Biofilm_2633,Luteolin,C15H10O6,Phytochemical,Escherichia coli,CFT073 (UPEC),15.7 %,Adhesion,Luria-Bertani (LB) Broth,25051393
+Anti-Biofilm_2679,Zinc oxide,ZnO,Nanoparticle,Escherichia coli,O157:H7 (ATCC 43895),68 %,Formation,Luria-Bertani (LB) Broth,24958247
+Anti-Biofilm_2733,epsilon-viniferin,C28H22O6,Phytochemical,Escherichia coli,?O157:H7 (ATCC 43895),98 %,Formation,Luria-Bertani (LB) Broth,23819562
+Anti-Biofilm_2844,Palmitoyl-DL-carnitine,C23H45NO4,Chemical,Escherichia coli,W3110,50 %,Formation,Luria-Bertani (LB) Broth,22045628
+Anti-Biofilm_2845,Palmitic acid,C16H32O2,Chemical,Escherichia coli,W3110,50 %,Formation,Luria-Bertani (LB) Broth,22045628
+Anti-Biofilm_2993,6-Aminoflavone,C15H11NO2,Phytochemical,Escherichia coli,O157:H7 (ATCC 43895),74.77 %,Formation,Luria-Bertani (LB) Broth,21930760
+Anti-Biofilm_2994,6-hydroxyflavone,C15H10O3,Phytochemical,Escherichia coli,O157:H7 (ATCC 43895),34.07 %,Formation,Luria-Bertani (LB) Broth,21930760
+Anti-Biofilm_2995,Apigenin,C15H10O5,Phytochemical,Escherichia coli,O157:H7 (ATCC 43895),77.87 %,Formation,Luria-Bertani (LB) Broth,21930760
+Anti-Biofilm_2996,Chrysin,C15H10O4,Phytochemical,Escherichia coli,O157:H7 (ATCC 43895),42.47 %,Formation,Luria-Bertani (LB) Broth,21930760
+Anti-Biofilm_2997,Curcumin,C21H20O6,Phytochemical,Escherichia coli,O157:H7 (ATCC 43895),44.69 %,Formation,Luria-Bertani (LB) Broth,21930760
+Anti-Biofilm_2998,Daidzein,C15H10O4,Phytochemical,Escherichia coli,O157:H7 (ATCC 43895),46.9 %,Formation,Luria-Bertani (LB) Broth,21930760
+Anti-Biofilm_2999,Flavone,C15H10O2,Phytochemical,Escherichia coli,O157:H7 (ATCC 43895),55.75 %,Formation,Luria-Bertani (LB) Broth,21930760
+Anti-Biofilm_3000,Genistein,C15H10O5,Phytochemical,Escherichia coli,O157:H7 (ATCC 43895),60.17 %,Formation,Luria-Bertani (LB) Broth,21930760
+Anti-Biofilm_3001,Phloretin,C15H14O5,Phytochemical,Escherichia coli,O157:H7 (ATCC 43895),91.15 %,Formation,Luria-Bertani (LB) Broth,21930760
+Anti-Biofilm_3002,Vitamin C,C6H8O6,Chemical,Escherichia coli,O157:H7 (ATCC 43895),5.75 %,Formation,Luria-Bertani (LB) Broth,21930760
+Anti-Biofilm_3003,Vitamin E,C29H50O2,Chemical,Escherichia coli,O157:H7 (ATCC 43895),4.86 %,Formation,Luria-Bertani (LB) Broth,21930760
+Anti-Biofilm_3289,3-(4-fluorophenyl)-5-(3-ethoxy- 4-hydroxybenzylidene)-2-thioxothiazolidin-4-one,C18H14FNO3S2,Chemical,Escherichia coli,ATCC 25922,≥80 %,Adhesion,Tryptic Soy Broth (TSB),19651903
+Anti-Biofilm_3290,3-(3-fluorophenyl)-5-(3-ethoxy-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one,C18H14FNO3S2,Chemical,Escherichia coli,ATCC 25922,≥80 %,Adhesion,Tryptic Soy Broth (TSB),19651903
+Anti-Biofilm_3291,3-(pyridin-3-yl)-5-(3-ethoxy-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one,C17H14N2O3S2,Chemical,Escherichia coli,ATCC 25922,≥80 %,Adhesion,Tryptic Soy Broth (TSB),19651903
+Anti-Biofilm_3292,3-(4-fluorophenyl)-5-(3-(allyloxy)-4-hydroxybenzylidene)-2-thioxothiazolidin-4-one,C19H14FNO3S2,Chemical,Escherichia coli,ATCC 25922,≥80 %,Adhesion,Tryptic Soy Broth (TSB),19651903
+Anti-Biofilm_3486,Titanium dioxide,O2Ti,Nanoparticle,Escherichia coli,K12,43.5 %,Formation,-2,27690228
+Anti-Biofilm_3551,Coumarin,C9H6O2,Phytochemical,Escherichia coli,MUH76317,40 %,Formation,Luria-Bertani (LB) media,25672848
+Anti-Biofilm_3564,Ceftazidime,C22H22N6O7S2,Chemical,Escherichia coli,E42,18.18 %,Formation,Luria-Bertani (LB) Broth,25189202
+Anti-Biofilm_3581,Limonene,C10H16,Phytochemical,Escherichia coli,582,67.53 %,Formation,Luria-Bertani (LB) media,23789847
+Anti-Biofilm_3582,alpha-Pinene,C10H16,Phytochemical,Escherichia coli,582,54.54 %,Formation,Luria-Bertani (LB) media,23789847
+Anti-Biofilm_3583,Terpinene-4-ol,C10H18O,Phytochemical,Escherichia coli,582,35.06 %,Formation,Luria-Bertani (LB) media,23789847
+Anti-Biofilm_3584,Linalool,C10H18O,Phytochemical,Escherichia coli,582,67.53 %,Formation,Luria-Bertani (LB) media,23789847
+Anti-Biofilm_3698,Indole,C8H7N,Chemical,Escherichia coli,K-12,Decrease,Formation,Luria-Bertani (LB) media,28251783
+Anti-Biofilm_3699,Indole,C8H7N,Chemical,Escherichia coli,O157:H7,Decrease,Formation,Luria-Bertani (LB) media,28251783
+Anti-Biofilm_3895,1-{2-[(E)-2-(4-chlorophenyl)ethenyl]-4-phenylquinolin-3-yl}ethan-1-one,C25H18ClNO,Chemical,Escherichia coli,MTCC 739,50 %,Formation,Tryptone Soy Broth,25465871
+Anti-Biofilm_3896,1-{2-[(E)-2-(4-methoxyphenyl)ethenyl]-4-phenylquinolin-3-yl}ethan-1-one,C26H21NO2,Chemical,Escherichia coli,MTCC 739,50 %,Formation,Tryptone Soy Broth,25465871
+Anti-Biofilm_3897,1-{4-phenyl-2-[(E)-2-[4-(trifluoromethoxy)phenyl]ethenyl]quinolin-3-yl}ethan-1-one,C26H18F3NO2,Chemical,Escherichia coli,MTCC 739,50 %,Formation,Tryptone Soy Broth,25465871
+Anti-Biofilm_3898,"1-{2-[(E)-2-[3,5-bis(trifluoromethyl)phenyl]ethenyl]-4-phenylquinolin-3-yl}ethan-1-one",C27H17F6NO,Chemical,Escherichia coli,MTCC 739,50 %,Formation,Tryptone Soy Broth,25465871
+Anti-Biofilm_3899,1-{2-[(E)-2-(4-hydroxy-3-methoxyphenyl)ethenyl]-4-phenylquinolin-3-yl}ethan-1-one,C26H21NO3,Chemical,Escherichia coli,MTCC 739,50 %,Formation,Tryptone Soy Broth,25465871
+Anti-Biofilm_3900,1-{6-nitro-4-phenyl-2-[(E)-2-[4-(trifluoromethoxy)phenyl]ethenyl]quinolin-3-yl}ethan-1-one,C26H17F3N2O4,Chemical,Escherichia coli,MTCC 739,50 %,Formation,Tryptone Soy Broth,25465871
+Anti-Biofilm_3901,"1-{6-nitro-4-phenyl-2-[(E)-2-(3,4,5-trimethoxyphenyl)ethenyl]quinolin-3-yl}ethan-1-one",C28H24N2O6,Chemical,Escherichia coli,MTCC 739,50 %,Formation,Tryptone Soy Broth,25465871
+Anti-Biofilm_3982,Guaiacol,C7H8O2,Phytochemical,Escherichia coli,O157:H7,18.18 %,Adhesion and Formation,Luria-Bertani (LB) Broth,27808174
+Anti-Biofilm_3983,4-Ethylcatechol,C8H10O2,Phytochemical,Escherichia coli,O157:H7,9.09 %,Adhesion and Formation,Luria-Bertani (LB) Broth,27808174
+Anti-Biofilm_3984,Thymol,C10H14O,Phytochemical,Escherichia coli,O157:H7,15.15 %,Adhesion and Formation,Luria-Bertani (LB) Broth,27808174
+Anti-Biofilm_3985,2-Methoxyhydroquinone,C7H8O3,Phytochemical,Escherichia coli,O157:H7,10.3 %,Adhesion and Formation,Luria-Bertani (LB) Broth,27808174
+Anti-Biofilm_3986,Vanillin,C8H8O3,Phytochemical,Escherichia coli,O157:H7,3.03 %,Adhesion and Formation,Luria-Bertani (LB) Broth,27808174
+Anti-Biofilm_3987,Carvacrol,C10H14O,Phytochemical,Escherichia coli,O157:H7,18.18 %,Adhesion and Formation,Luria-Bertani (LB) Broth,27808174
+Anti-Biofilm_3988,Methyl eugenol,C11H14O2,Phytochemical,Escherichia coli,O157:H7,21.21 %,Adhesion and Formation,Luria-Bertani (LB) Broth,27808174
+Anti-Biofilm_3989,2-Methoxy-4-propylphenol,C10H14O2,Phytochemical,Escherichia coli,O157:H7,60.61 %,Adhesion and Formation,Luria-Bertani (LB) Broth,27808174
+Anti-Biofilm_3990,Isoeugenol,C10H12O2,Phytochemical,Escherichia coli,O157:H7,66.67 %,Adhesion and Formation,Luria-Bertani (LB) Broth,27808174
+Anti-Biofilm_3991,4-Ethylguaiacol,C9H12O2,Phytochemical,Escherichia coli,O157:H7,75.76 %,Adhesion and Formation,Luria-Bertani (LB) Broth,27808174
+Anti-Biofilm_3992,Eugenol,C10H12O2,Phytochemical,Escherichia coli,O157:H7,87.88 %,Adhesion and Formation,Luria-Bertani (LB) Broth,27808174
+Anti-Biofilm_3995,Eugenol,C10H12O2,Phytochemical,Escherichia coli,BW25113,8.89 %,Adhesion and Formation,Luria-Bertani (LB) Broth,27808174
+Anti-Biofilm_3997,Clove oil,C7H12ClN3O2,Phytochemical,Escherichia coli,MG1655,0 %,Adhesion and Formation,Luria-Bertani (LB) Broth,27808174
+Anti-Biofilm_3998,Eugenol,C10H12O2,Phytochemical,Escherichia coli,MG1655,16.67 %,Adhesion and Formation,Luria-Bertani (LB) Broth,27808174
+Anti-Biofilm_4000,Clove oil,C7H12ClN3O2,Phytochemical,Escherichia coli,TG1,5.56 %,Adhesion and Formation,Luria-Bertani (LB) Broth,27808174
+Anti-Biofilm_4076,Ceftazidime,C22H22N6O7S2,Chemical,Escherichia coli,ER20477,81.48 %,Formation,Luria-Bertani (LB) Broth,15528892
+Anti-Biofilm_4077,Ceftazidime,C22H22N6O7S2,Chemical,Escherichia coli,ER14169,71.19 %,Formation,Luria-Bertani (LB) Broth,15528892
+Anti-Biofilm_4084,Amikacin,C22H43N5O13,Chemical,Escherichia coli,ER20477,7.41 %,Formation,Luria-Bertani (LB) Broth,15528892
+Anti-Biofilm_4085,Amikacin,C22H43N5O13,Chemical,Escherichia coli,ER14169,18.64 %,Formation,Luria-Bertani (LB) Broth,15528892
+Anti-Biofilm_4090,Ciprofloxacin,C17H18FN3O3,Chemical,Escherichia coli,ER20477,87.04 %,Formation,Luria-Bertani (LB) Broth,15528892
+Anti-Biofilm_4091,Ciprofloxacin,C17H18FN3O3,Chemical,Escherichia coli,ER14169,50.85 %,Formation,Luria-Bertani (LB) Broth,15528892
+Anti-Biofilm_4141,Carboxymethyl chitosan,C20H37N3O14,Chemical,Escherichia coli,ATCC 25312,84.59 %,Pre-formed,Brain Heart Infusion (BHI) Broth,28756196
+Anti-Biofilm_4142,Silver nitrate,AgNO3,Chemical,Escherichia coli,ATCC 25312,88.56 %,Pre-formed,Brain Heart Infusion (BHI) Broth,28756196
+Anti-Biofilm_4143,Copper sulfate,CuO4S,Chemical,Escherichia coli,ATCC 25312,83.25 %,Pre-formed,Brain Heart Infusion (BHI) Broth,28756196
+Anti-Biofilm_4144,Zinc sulfate,O4SZn,Chemical,Escherichia coli,ATCC 25312,77.97 %,Pre-formed,Brain Heart Infusion (BHI) Broth,28756196
+Anti-Biofilm_4145,Carboxymethyl chitosan,C20H37N3O14,Chemical,Escherichia coli,ATCC 25312,81.36 %,Pre-formed,Brain Heart Infusion (BHI) Broth,28756196
+Anti-Biofilm_4146,Carboxymethyl chitosan,C20H37N3O14,Chemical,Escherichia coli,ATCC 25312,83.25 %,Pre-formed,Brain Heart Infusion (BHI) Broth,28756196
+Anti-Biofilm_4147,Carboxymethyl chitosan,C20H37N3O14,Chemical,Escherichia coli,ATCC 25312,77.39 %,Pre-formed,Brain Heart Infusion (BHI) Broth,28756196
+Anti-Biofilm_4264,Coladonin,C24H30O4,Chemical,Escherichia coli,O157:H7,79 %,Formation,Luria-Bertani (LB) media,25027570
+Anti-Biofilm_4265,Coumarin,C9H6O2,Phytochemical,Escherichia coli,O157:H7,82 %,Formation,Luria-Bertani (LB) media,25027570
+Anti-Biofilm_4266,Coumarin-3-carboxylic acid,C10H6O4,Chemical,Escherichia coli,O157:H7,40 %,Formation,Luria-Bertani (LB) media,25027570
+Anti-Biofilm_4267,Dephnetin,C9H6O4,Chemical,Escherichia coli,O157:H7,18 %,Formation,Luria-Bertani (LB) media,25027570
+Anti-Biofilm_4268,Ellagic Acid,C14H6O8,Chemical,Escherichia coli,O157:H7,38 %,Formation,Luria-Bertani (LB) media,25027570
+Anti-Biofilm_4269,Esculetin,C9H6O4,Phytochemical,Escherichia coli,O157:H7,36 %,Formation,Luria-Bertani (LB) media,25027570
+Anti-Biofilm_4270,4-hydroxy coumarin,C9H6O3,Chemical,Escherichia coli,O157:H7,30 %,Formation,Luria-Bertani (LB) media,25027570
+Anti-Biofilm_4271,Scopoletin,C10H8O4,Chemical,Escherichia coli,O157:H7,36 %,Formation,Luria-Bertani (LB) media,25027570
+Anti-Biofilm_4272,Umbelliferone,C9H6O3,Chemical,Escherichia coli,O157:H7,92 %,Formation,Luria-Bertani (LB) media,25027570
+Anti-Biofilm_4341,Pa-MAP,C107H196N28O30,Peptide,Escherichia coli,ATCC O157,Decrease,Pre-formation,Luria-Bertani (LB) media,26916401
+Anti-Biofilm_4345,KT2,C126H164N30O21,Peptide,Escherichia coli,O157,Decrease,Formation,"BM2 minimal glucose media [62 mM potassium phosphate buffer, pH 7.0, 7mM(NH4)2SO4, 2mMMgSO4, 10 μM FeSO4, containing 0.4% (wt/vol) glucose as a carbon source]",25767037
+Anti-Biofilm_4346,RT2,C126H164N38O21,Peptide,Escherichia coli,O157,Decrease,Formation,"BM2 minimal glucose media [62 mM potassium phosphate buffer, pH 7.0, 7mM(NH4)2SO4, 2mMMgSO4, 10 μM FeSO4, containing 0.4% (wt/vol) glucose as a carbon source]",25767037
+Anti-Biofilm_4349,DJK5,C70H122N26O14,Peptide,Escherichia coli,O157,50 %,Formation,"BM2 glucose minimal media, 2.5 μg/ml",25699603
+Anti-Biofilm_4350,DJK6,C78H127N27O14,Peptide,Escherichia coli,O157,50 %,Formation,"BM2 glucose minimal media, 2.5 μg/ml",25699603
+Anti-Biofilm_4555,Pleurocidin,C100H179N37O16,Peptide,Escherichia coli,ATCC 25922,17 %,Formation,Brain Heart Infusion (BHI) Broth,22921812
+Anti-Biofilm_4556,Pleurocidin,C100H179N37O16,Peptide,Escherichia coli,O-157 ATCC 43895,22.4 %,Formation,Brain Heart Infusion (BHI) Broth,22921812
+Anti-Biofilm_4590,cat-AGE-RK1,C70H118N28O11,Peptide,Escherichia coli,ATCC 8739,81.25 %,Formation,Mueller-Hinton (MH) Broth,24056098
+Anti-Biofilm_4591,cat-AGE-RK2,C70H118N28O11,Peptide,Escherichia coli,ATCC 8739,75 %,Formation,Mueller-Hinton (MH) Broth,24056098
+Anti-Biofilm_4713,Tetrameric peptide,C34H47N13O4,Peptide,Escherichia coli,RP437,10 %,Formation,Luria-Bertani (LB) Broth,20097816
+Anti-Biofilm_4714,Hexameric peptide,C51H69N19O6,Peptide,Escherichia coli,RP437,95 %,Formation,Luria-Bertani (LB) Broth,20097816
+Anti-Biofilm_4715,Octameric peptide,C68H91N25O8,Peptide,Escherichia coli,RP437,82 %,Formation,Luria-Bertani (LB) Broth,20097816
+Anti-Biofilm_4716,Tetrameric peptide,C34H47N13O4,Peptide,Escherichia coli,RP437,15.66 %,Formation,Luria-Bertani (LB) Broth,20097816
+Anti-Biofilm_4717,Hexameric peptide,C51H69N19O6,Peptide,Escherichia coli,RP437,87.95 %,Formation,Luria-Bertani (LB) Broth,20097816
+Anti-Biofilm_4718,Octameric peptide,C68H91N25O8,Peptide,Escherichia coli,RP437,93.97 %,Formation,Luria-Bertani (LB) Broth,20097816
+Anti-Biofilm_4777,FV7,C43H77N17O7,Peptide,Escherichia coli,ATCC 25922,18 %,Formation,Mueller-Hinton (MH) Broth,24945359
+Anti-Biofilm_4778,R-FV-I16,C100H179N37O16,Peptide,Escherichia coli,ATCC 25922,34 %,Formation,Mueller-Hinton (MH) Broth,24945359
+Anti-Biofilm_4780,R-FV-I16,C100H179N37O16,Peptide,Escherichia coli,ATCC 25922,75 %,Formation,Mueller-Hinton (MH) Broth,24945359
+Anti-Biofilm_4790,(RW)2-NH2,C34H47N13O4,Peptide,Escherichia coli,HM22,20 %,Formation,Luria-Bertani (LB) Broth,21622798
+Anti-Biofilm_4791,(RW)2-NH2,C34H47N13O4,Peptide,Escherichia coli,HM22,25 %,Formation,"100 μg/ml Ampicillin, Luria-Bertani (LB) Broth",21622798
+Anti-Biofilm_4792,(RW)2-NH2,C34H47N13O4,Peptide,Escherichia coli,HM22,82 %,Formation,"5 μg/ml Ofloxacin, Luria-Bertani (LB) Broth",21622798
+Anti-Biofilm_4793,(RW)3-NH2,C51H69N19O6,Peptide,Escherichia coli,HM22,72 %,Formation,Luria-Bertani (LB) Broth,21622798
+Anti-Biofilm_4794,(RW)3-NH2,C51H69N19O6,Peptide,Escherichia coli,HM22,60 %,Formation,"100 μg/ml Ampicillin, Luria-Bertani (LB) Broth",21622798
+Anti-Biofilm_4795,(RW)3-NH2,C51H69N19O6,Peptide,Escherichia coli,HM22,90 %,Formation,"5 μg/ml Ofloxacin, Luria-Bertani (LB) Broth",21622798
+Anti-Biofilm_4796,(RW)4-NH2,C68H91N25O8,Peptide,Escherichia coli,HM22,98 %,Formation,Luria-Bertani (LB) Broth,21622798
+Anti-Biofilm_4797,(RW)4-NH2,C68H91N25O8,Peptide,Escherichia coli,HM22,84 %,Formation,"100 μg/ml Ampicillin, Luria-Bertani (LB) Broth",21622798
+Anti-Biofilm_4798,(RW)4-NH2,C68H91N25O8,Peptide,Escherichia coli,HM22,49 %,Formation,"5 μg/ml Ofloxacin, Luria-Bertani (LB) Broth",21622798
+Anti-Biofilm_4799,(RW)4D,C72H95N25O12,Peptide,Escherichia coli,HM22,99 %,Formation,Luria-Bertani (LB) Broth,21622798
+Anti-Biofilm_4800,(RW)4D,C72H95N25O12,Peptide,Escherichia coli,HM22,86 %,Formation,"100 μg/ml Ampicillin, Luria-Bertani (LB) Broth",21622798
+Anti-Biofilm_4801,(RW)4D,C72H95N25O12,Peptide,Escherichia coli,HM22,49 %,Formation,"5 μg/ml Ofloxacin, Luria-Bertani (LB) Broth",21622798
+Anti-Biofilm_4813,IDR-1018,C71H126N26O12,Peptide,Escherichia coli,O157,100 %,Formation,Luria-Bertani (LB) Broth,24852171
+Anti-Biofilm_4955,"1-(2-Chloroacetyl)indoline-2,3-dione",C10H6ClNO3,Chemical,Escherichia coli,MT102,90 %,Formation,M9 media,28654117
+Anti-Biofilm_4956,"1-(2-Chloroacetyl)-5-methylindoline-2,3-dione",C11H8ClNO3,Chemical,Escherichia coli,MT102,50 %,Formation,M9 media,28654117
+Anti-Biofilm_4957,2-(2-(2-Chloroacetamido)phenyl )-2-oxo-N-( prop-2-yn-1-yl )acetamide,C13H11ClN2O3,Chemical,Escherichia coli,MT102,78 %,Formation,M9 media,28654117
+Anti-Biofilm_4958,2-(5-Chloro-2-(2-chloroacetamido)phenyl )-2-oxo-N-( prop-2-yn-1-yl)acetamide,C13H10Cl2N2O3,Chemical,Escherichia coli,MT102,90 %,Formation,M9 media,28654117
+Anti-Biofilm_4959,2-(2-(2-Chloroacetamido)-5-fluorophenyl)-2-oxo-N-( prop-2-yn-1-yl)acetamide,C13H10ClFN2O3,Chemical,Escherichia coli,MT102,76 %,Formation,M9 media,28654117
+Anti-Biofilm_4960,2-(2-(2-Chloroacetamido)-5-methylphenyl)-2-oxo-N-( prop-2-yn- 1-yl)acetamide,C14H13ClN2O3,Chemical,Escherichia coli,MT102,90 %,Formation,M9 media,28654117
+Anti-Biofilm_4961,2-(2-(2-Chloroacetamido)-5-nitrophenyl)-2-oxo-N-( prop-2-yn-1-yl)acetamide,C13H10ClN3O5,Chemical,Escherichia coli,MT102,76 %,Formation,M9 media,28654117
+Anti-Biofilm_4962,2-(2-(2-Azidoacetamido)-5-nitrophenyl)-2-oxo-N-(prop-2-yn-1-yl)acetamide,C13H10N6O5,Chemical,Escherichia coli,MT102,80 %,Formation,M9 media,28654117
